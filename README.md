@@ -6,4 +6,12 @@
 
  •Built an interactive dashboard in MS Excel.
  
-![image](https://github.com/Shifanaaz125/Viranda_store_2022_Report_Analysis/assets/120267469/b3a9ef9f-652d-495e-82ed-51e1e57d7246)
+![image](https://github.com/Shifanaaz125/Viranda_store_2022_Report_Analysis/assets/120267469/b3a9ef9f-652d-495e-82ed-51e1e57d7246) 
+
+# Request for Feedback
+Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
+
+1. Data preprocessing: Did I miss any critical steps?
+2. Correct Method: Is the chosen analytical approach appropriate for this problem?
+3. Clarity: Is my explanation clear and easy to follow?
+Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
