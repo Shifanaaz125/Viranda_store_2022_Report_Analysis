@@ -7,7 +7,7 @@
  •Built an advanced interactive dashboard in MS Excel.
  
 
-**Note:**  Please have a look to see the analysis in more detail
+**Note:**  Please have a look into the screenshots to see the analysis in more detail
  
 ![image](https://github.com/Shifanaaz125/Viranda_store_2022_Report_Analysis/assets/120267469/b3a9ef9f-652d-495e-82ed-51e1e57d7246) 
 
