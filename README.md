@@ -4,7 +4,8 @@
 
  • Summarized key data insights using pivot tables and created impactful charts that showcased the overall sales around the country and analyzed how different factors such as age, seasons or months, gender, and other E-commerce websites affect the sales of Viranda Store.
 
- •Built an advance interactive dashboard in MS Excel.
+ •Built an advanced interactive dashboard in MS Excel.
+ 
 
 **Note:**  Please have a look to see the analysis in more detail
  
