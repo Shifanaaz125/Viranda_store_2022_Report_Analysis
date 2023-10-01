@@ -1,13 +1,13 @@
 # Viranda_store_2022_Report_Analysis
 
- • Cleaned and formatted 31048 rows of raw sales data of the Viranda store by leveraging advanced MS Excel functions such as Sort & Filter, Trim, Concatenate, IF and COUNTIF, along with conditional formatting, to ensure accuracy and integrity of data.
+ • Cleaned and formatted 31048 rows of raw sales data of the Viranda store by leveraging advanced MS Excel functions such as Sort & Filter, Trim, Concatenate, IF, and COUNTIF, along with conditional formatting, to ensure accuracy and integrity of data.
 
  • Summarized key data insights using pivot tables and created impactful charts that showcased the overall sales around the country and analyzed how different factors such as age, seasons or months, gender, and other E-commerce websites affect the sales of Viranda Store.
 
  •Built an advanced interactive dashboard in MS Excel.
  
 
-**Note:**  Please have a look into the screenshots to see the analysis in more detail
+**Note:**  Please have a look at the screenshots to see the analysis in more detail way.
  
 ![image](https://github.com/Shifanaaz125/Viranda_store_2022_Report_Analysis/assets/120267469/b3a9ef9f-652d-495e-82ed-51e1e57d7246) 
 
